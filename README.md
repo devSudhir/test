@@ -31,7 +31,7 @@ Products Pages :
 There are many Child pages linked to the Landing page and after login page, but for this clone following pages are made.
 Udemy for Business
 Teach On Udemy
-![LCO Mascot](https://imgur.com/fEQvPF5 "LCO")
+![LCO Mascot](https://pasteboard.co/KbjUHpr.jpg "LCO")
 
 There are some Key Features which are added in website clone such as,
 
