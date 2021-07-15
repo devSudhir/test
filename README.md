@@ -31,8 +31,7 @@ Products Pages :
 There are many Child pages linked to the Landing page and after login page, but for this clone following pages are made.
 Udemy for Business
 Teach On Udemy
-![Markdown Logo]
-(https://pasteboard.co/KbjUHpr.jpg)
+![INDEX!](index.jpeg)
 
 There are some Key Features which are added in website clone such as,
 
