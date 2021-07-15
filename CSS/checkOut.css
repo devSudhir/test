@@ -631,3 +631,9 @@ header {
 .flexSum p {
   margin-bottom: 10px;
 }
+
+#notification {
+  margin: 20px auto;
+  text-align: center;
+  color: greenyellow;
+}
