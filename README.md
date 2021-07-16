@@ -23,9 +23,9 @@ The library used for icon is:"https://use.fontawesome.com/"
 Existing user can Login and new user's can SignUp themselves on page.
 to SignUp and Login there are Two option,
 From NavigationBar of Landing Page.
-![SIGNUP!](readmeImages/signup.jpeg)
+![SIGNUP!](readmeImages/signup.PNG)
 From Dedicated Login Page Login
-![LOGIN!](readmeImages/login.jpeg)
+![LOGIN!](readmeImages/login.PNG)
 After Login the initial letter of user will be visible at right-most corner. User can Log out after hovering on the name.
 User direcly redirect to home page.
 
