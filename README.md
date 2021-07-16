@@ -15,7 +15,7 @@ In top section there is a Header which displays Dropdown menu of pages.
 Sliders are included in the page, popups are shown when hovered.
 At the bottom section there is a footer, both Header & Footer are same across all the pages.
 The page is responsive for all screen sizes.
-![INDEX!](readmeImages/index.jpeg)
+![INDEX!](readmeImages/index.PNG)
 The library used for icon is:"https://use.fontawesome.com/"
 
 ### Login Page & SignUp page:
@@ -42,8 +42,8 @@ There are some Key Features which are added in website clone such as,
 - Cart Containing wishlist, save for later and Coupon Application feature.
 - Checkout Page with subscription Status.
 - Payment Mode Message.
-  ![CART!](readmeImages/cart.jpeg)
-  ![PAYMENT!](readmeImages/payment.jpeg)
+  ![CART!](readmeImages/cart.PNG)
+  ![PAYMENT!](readmeImages/payment.PNG)
 
 ## Team Members and Contributors
 
